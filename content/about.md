@@ -1,6 +1,6 @@
 ---
 date: "2021-11-21"
-title: About
+title: "About"
 ---
 
 This series of blog is aiming at finding the effect of time on the life expectancy in different continents. The data used is provided by organisation  [gapminder](https://www.gapminder.org).
